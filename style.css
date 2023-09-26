@@ -1,6 +1,4 @@
  .header {
-
-
      display: flex;
  }
 
@@ -16,7 +14,7 @@
      font-size: 15px;
      display: flex;
      justify-content: flex-end;
-     margin-left: 750px;
+     margin-left: 950px;
  }
 
  .header_right li {
@@ -26,7 +24,7 @@
 
  .relative {
      position: relative;
-     top: 170px;
+     top: 270px;
      left: px;
  }
 
@@ -46,21 +44,16 @@
 
  .box {
      width: 840px;
-     height: 200px;
+     height: 220px;
      color: #0404fb;
  }
 
  img {
-     width: 750px;
-     height: 350px;
-
-
-
+     width: 980px;
+     height: 370px;
  }
 
  .comment {
      font-size: 50px;
      font-weight: 100;
-
-
  }
